@@ -4,8 +4,10 @@ services:
     name: carwash-api
     runtime: node
     rootDir: server
+    plan: free
     buildCommand: npm install
     startCommand: npm start
+    healthCheckPath: /api/whatsapp/status
     envVars:
       - key: NODE_ENV
         value: production
@@ -14,8 +16,12 @@ services:
   - type: web
     name: carwash-frontend
     runtime: static
+    plan: free
     buildCommand: npm install && npm run build
     staticPublishPath: dist
+    envVars:
+      - key: VITE_API_URL
+        sync: false
     headers:
       - path: /*
         name: Cache-Control
