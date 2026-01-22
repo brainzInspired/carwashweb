@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1768480638847,
+    "phone": "8788230023",
+    "message": "🚗 *CarWash Reminder*\n\nHello Amit Kumar!\n\nYour car wash service for *Hyundai Creta* is scheduled for *Tomorrow* at *8:30 AM*.\n\nPlease ensure your vehicle is available.\n\nThank you for choosing CarWash Service! 🙏",
+    "customerName": "Amit Kumar",
+    "customerCar": "Hyundai Creta",
+    "serviceTime": "8:30 AM",
+    "serviceDate": "Tomorrow",
+    "status": "sent",
+    "messageId": "3EB0FD8388CDFD6646D61C",
+    "sentAt": "2026-01-15T12:37:18.847Z"
+  },
+  {
+    "id": 1768477397136,
+    "phone": "917387512134",
+    "message": "Test to your own number - if this works, phone format is OK",
+    "customerName": "Self Test",
+    "customerCar": "Test",
+    "serviceTime": "Now",
+    "serviceDate": "Today",
+    "status": "sent",
+    "messageId": "1768477397136",
+    "sentAt": "2026-01-15T11:43:17.136Z"
+  },
+  {
+    "id": 1768477238396,
+    "phone": "8788230023",
+    "message": "🚗 *CarWash Reminder*\n\nHello Amit Kumar!\n\nYour car wash service for *Hyundai Creta* is scheduled for *Tomorrow* at *8:30 AM*.\n\nPlease ensure your vehicle is available.\n\nThank you for choosing CarWash Service! 🙏",
+    "customerName": "Amit Kumar",
+    "customerCar": "Hyundai Creta",
+    "serviceTime": "8:30 AM",
+    "serviceDate": "Tomorrow",
+    "status": "sent",
+    "messageId": "1768477238395",
+    "sentAt": "2026-01-15T11:40:38.396Z"
+  },
+  {
+    "id": 1768477034690,
+    "phone": "8788230023",
+    "message": "🚗 *CarWash Reminder*\n\nHello Amit Kumar!\n\nYour car wash service for *Hyundai Creta* is scheduled for *Tomorrow* at *8:30 AM*.\n\nPlease ensure your vehicle is available.\n\nThank you for choosing CarWash Service! 🙏",
+    "customerName": "Amit Kumar",
+    "customerCar": "Hyundai Creta",
+    "serviceTime": "8:30 AM",
+    "serviceDate": "Tomorrow",
+    "status": "sent",
+    "messageId": "1768477034689",
+    "sentAt": "2026-01-15T11:37:14.690Z"
+  },
+  {
+    "id": 1768476986128,
+    "phone": "8788230023",
+    "message": "Test message from CarWash Admin System. WhatsApp is working!",
+    "customerName": "Test Customer",
+    "customerCar": "Test Car",
+    "serviceTime": "10:00 AM",
+    "serviceDate": "Today",
+    "status": "sent",
+    "messageId": "1768476986127",
+    "sentAt": "2026-01-15T11:36:26.128Z"
+  },
+  {
+    "id": 1768387026970,
+    "phone": "8788230023",
+    "message": "🚗 *CarWash Reminder*\n\nHello Amit Kumar!\n\nYour car wash service for *Hyundai Creta* is scheduled for *Tomorrow* at *8:30 AM*.\n\nPlease ensure your vehicle is available.\n\nThank you for choosing CarWash Service! 🙏",
+    "customerName": "Amit Kumar",
+    "customerCar": "Hyundai Creta",
+    "serviceTime": "8:30 AM",
+    "serviceDate": "Tomorrow",
+    "status": "sent",
+    "messageId": "true_918788230023@c.us_3EB0B63068196E33B3EFBE",
+    "sentAt": "2026-01-14T10:37:06.970Z"
+  },
+  {
+    "id": 1768386992468,
+    "phone": "8788230023",
+    "message": "🚗 *CarWash Reminder*\n\nHello!\n\nYour car wash service is scheduled for *Tomorrow* at *8:30 AM*.\n\nPlease ensure your vehicle is available.\n\nThank you for choosing CarWash Service! 🙏",
+    "customerName": "Customer",
+    "customerCar": "Car",
+    "serviceTime": "8:30 AM",
+    "serviceDate": "Tomorrow",
+    "status": "sent",
+    "messageId": "true_918788230023@c.us_3EB06FBEBA4CD46353C23A",
+    "sentAt": "2026-01-14T10:36:32.468Z"
+  }
+]
